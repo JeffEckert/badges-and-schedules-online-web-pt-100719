@@ -12,6 +12,7 @@ end
     room = 0 
     speakers.collect do |name|
       room += 1 
+      
     end
   end
   
