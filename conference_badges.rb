@@ -9,4 +9,5 @@ end
   end
   
   def assign_rooms(speakers)
+    room = 0 
     
