@@ -8,4 +8,5 @@ end
     end
   end
   
-  def assign_rooms(speakers, rooms)
+  def assign_rooms(speakers)
+    
